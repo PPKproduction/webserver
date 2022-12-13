@@ -39,10 +39,9 @@ user_pass = settings["user_password"]
 
 if user_ssid == "":
     networks = scan_networks()
-    print("AP mode")
     print(access_point(ssid, password=password))
 else:
-    print(connect_to_wifi(ssid, password))
+    print(connect_to_wifi(ssid=user_ssid, password=user_pass))
 
 @server.route("/network", ["POST", 'GET'])
 def network(request):
