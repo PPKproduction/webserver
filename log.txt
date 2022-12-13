@@ -1,0 +1,131 @@
+1 ms)
+2022-12-13 15:22:29 [info     / 118kB] > GET / (200 OK) [177ms]
+2022-12-13 15:22:31 [debug    / 127kB] > parsed template: network_init.html (took 21 ms)
+2022-12-13 15:22:31 [info     / 125kB] > GET / (200 OK) [2022ms]
+2022-12-13 15:22:48 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:22:55 [debug    / 121kB] > parsed template: network_init.html (took 19 ms)
+2022-12-13 15:22:55 [info     / 119kB] > GET / (200 OK) [167ms]
+2022-12-13 15:23:00 [debug    / 126kB] > parsed template: nav.html (took 18 ms)
+2022-12-13 15:23:00 [debug    / 124kB] > parsed template: header.html (took 147 ms)
+2022-12-13 15:23:01 [debug    / 119kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:23:01 [debug    / 117kB] > parsed template: index.html (took 389 ms)
+2022-12-13 15:23:01 [info     / 115kB] > POST / (200 OK) [5442ms]
+2022-12-13 15:23:02 [debug    / 135kB] > parsed template: network_init.html (took 25 ms)
+2022-12-13 15:23:02 [info     / 133kB] > GET / (200 OK) [1830ms]
+2022-12-13 15:26:12 [info     / 137kB] > starting web server on port 80
+2022-12-13 15:26:49 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:26:53 [debug    / 121kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:26:53 [info     / 119kB] > GET / (200 OK) [166ms]
+2022-12-13 15:26:55 [debug    / 133kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:26:55 [info     / 131kB] > GET / (200 OK) [1997ms]
+2022-12-13 15:26:56 [debug    / 121kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:26:56 [info     / 119kB] > GET / (200 OK) [1145ms]
+2022-12-13 15:28:13 [info     / 132kB] > starting web server on port 80
+2022-12-13 15:28:14 [debug    / 129kB] > parsed template: network_init.html (took 17 ms)
+2022-12-13 15:28:14 [info     / 127kB] > GET / (200 OK) [167ms]
+2022-12-13 15:28:15 [debug    / 117kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:28:16 [info     / 114kB] > GET / (200 OK) [1438ms]
+2022-12-13 15:28:17 [debug    / 104kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:28:17 [info     / 134kB] > GET / (200 OK) [1328ms]
+2022-12-13 15:28:49 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:28:50 [debug    / 121kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:28:50 [info     / 119kB] > GET / (200 OK) [381ms]
+2022-12-13 15:28:52 [debug    / 135kB] > parsed template: network_init.html (took 17 ms)
+2022-12-13 15:28:52 [info     / 133kB] > GET / (200 OK) [1926ms]
+2022-12-13 15:28:59 [info     / 133kB] > starting web server on port 80
+2022-12-13 15:29:00 [debug    / 134kB] > parsed template: network_init.html (took 17 ms)
+2022-12-13 15:29:00 [info     / 132kB] > GET / (200 OK) [171ms]
+2022-12-13 15:29:44 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:29:48 [debug    / 121kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:29:48 [info     / 134kB] > GET / (200 OK) [169ms]
+2022-12-13 15:29:50 [debug    / 124kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:29:50 [info     / 122kB] > GET / (200 OK) [1957ms]
+2022-12-13 15:30:26 [info     / 138kB] > starting web server on port 80
+2022-12-13 15:30:28 [debug    / 125kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:30:28 [info     / 123kB] > GET / (200 OK) [200ms]
+2022-12-13 15:30:29 [debug    / 112kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:30:30 [info     / 110kB] > GET / (200 OK) [1736ms]
+2022-12-13 15:30:31 [debug    / 133kB] > parsed template: network_init.html (took 15 ms)
+2022-12-13 15:30:31 [info     / 131kB] > GET / (200 OK) [1596ms]
+2022-12-13 15:30:38 [info     / 133kB] > starting web server on port 80
+2022-12-13 15:30:39 [debug    / 133kB] > parsed template: network_init.html (took 19 ms)
+2022-12-13 15:30:39 [info     / 131kB] > GET / (200 OK) [185ms]
+2022-12-13 15:31:23 [info     / 136kB] > starting web server on port 80
+2022-12-13 15:31:31 [info     / 133kB] > starting web server on port 80
+2022-12-13 15:31:32 [debug    / 134kB] > parsed template: network_init.html (took 19 ms)
+2022-12-13 15:31:32 [info     / 132kB] > GET / (200 OK) [227ms]
+2022-12-13 15:31:34 [debug    / 122kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:31:34 [info     / 120kB] > GET / (200 OK) [1855ms]
+2022-12-13 15:31:38 [debug    / 109kB] > parsed template: network_init.html (took 17 ms)
+2022-12-13 15:31:38 [info     / 107kB] > GET / (200 OK) [4713ms]
+2022-12-13 15:32:58 [error    / 105kB] need more than 0 values to unpack
+2022-12-13 15:34:35 [info     / 139kB] > starting web server on port 80
+2022-12-13 15:34:39 [debug    / 126kB] > parsed template: network_init.html (took 15 ms)
+2022-12-13 15:34:39 [info     / 124kB] > GET / (200 OK) [384ms]
+2022-12-13 15:35:20 [info     / 132kB] > starting web server on port 80
+2022-12-13 15:35:22 [debug    / 131kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:35:22 [info     / 129kB] > GET / (200 OK) [359ms]
+2022-12-13 15:35:33 [info     / 141kB] > starting web server on port 80
+2022-12-13 15:35:39 [debug    / 129kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:35:39 [info     / 127kB] > GET / (200 OK) [165ms]
+2022-12-13 15:35:48 [debug    / 117kB] > parsed template: network_init.html (took 15 ms)
+2022-12-13 15:35:48 [info     / 115kB] > GET / (200 OK) [9342ms]
+2022-12-13 15:36:32 [info     / 132kB] > starting web server on port 80
+2022-12-13 15:36:49 [debug    / 131kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:36:49 [info     / 129kB] > GET / (200 OK) [226ms]
+2022-12-13 15:36:51 [debug    / 119kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:36:51 [info     / 117kB] > GET / (200 OK) [1979ms]
+2022-12-13 15:36:54 [debug    / 129kB] > parsed template: nav.html (took 13 ms)
+2022-12-13 15:36:54 [debug    / 127kB] > parsed template: header.html (took 159 ms)
+2022-12-13 15:36:54 [debug    / 122kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:36:54 [debug    / 120kB] > parsed template: index.html (took 434 ms)
+2022-12-13 15:36:54 [info     / 118kB] > POST / (200 OK) [3855ms]
+2022-12-13 15:36:56 [debug    / 108kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:36:56 [info     / 106kB] > GET / (200 OK) [2186ms]
+2022-12-13 15:37:03 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:37:07 [debug    / 131kB] > parsed template: nav.html (took 19 ms)
+2022-12-13 15:37:07 [debug    / 128kB] > parsed template: header.html (took 154 ms)
+2022-12-13 15:37:07 [debug    / 124kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:37:07 [debug    / 122kB] > parsed template: index.html (took 428 ms)
+2022-12-13 15:37:07 [info     / 120kB] > POST / (200 OK) [610ms]
+2022-12-13 15:37:32 [debug    / 110kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:37:32 [info     / 108kB] > GET / (200 OK) [25765ms]
+2022-12-13 15:37:38 [debug    /  97kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:37:38 [info     /  95kB] > GET / (200 OK) [4361ms]
+2022-12-13 15:37:47 [debug    / 120kB] > parsed template: nav.html (took 16 ms)
+2022-12-13 15:37:48 [debug    / 117kB] > parsed template: header.html (took 166 ms)
+2022-12-13 15:37:48 [debug    / 128kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:37:48 [debug    / 126kB] > parsed template: index.html (took 641 ms)
+2022-12-13 15:37:48 [info     / 124kB] > POST / (200 OK) [10277ms]
+2022-12-13 15:39:16 [error    / 122kB] need more than 0 values to unpack
+2022-12-13 15:47:48 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:47:52 [info     / 122kB] Uri
+2022-12-13 15:47:52 [info     / 121kB] 
+2022-12-13 15:47:52 [debug    / 127kB] > parsed template: nav.html (took 14 ms)
+2022-12-13 15:47:52 [debug    / 125kB] > parsed template: header.html (took 160 ms)
+2022-12-13 15:47:53 [debug    / 120kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:47:53 [debug    / 118kB] > parsed template: index.html (took 448 ms)
+2022-12-13 15:47:53 [info     / 116kB] > POST / (200 OK) [851ms]
+2022-12-13 15:47:57 [debug    / 130kB] > parsed template: nav.html (took 13 ms)
+2022-12-13 15:47:57 [debug    / 128kB] > parsed template: header.html (took 177 ms)
+2022-12-13 15:47:57 [debug    / 124kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:47:57 [debug    / 122kB] > parsed template: about.html (took 469 ms)
+2022-12-13 15:47:57 [info     / 119kB] > GET /about (200 OK) [5328ms]
+2022-12-13 15:48:21 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:48:24 [debug    / 130kB] > parsed template: nav.html (took 16 ms)
+2022-12-13 15:48:24 [debug    / 127kB] > parsed template: header.html (took 166 ms)
+2022-12-13 15:48:24 [debug    / 123kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:48:24 [debug    / 121kB] > parsed template: about.html (took 426 ms)
+2022-12-13 15:48:24 [info     / 119kB] > GET /about (200 OK) [589ms]
+2022-12-13 15:48:27 [debug    / 109kB] > parsed template: network_init.html (took 18 ms)
+2022-12-13 15:48:27 [info     / 107kB] > GET /network (200 OK) [3017ms]
+2022-12-13 15:48:37 [info     / 134kB] > starting web server on port 80
+2022-12-13 15:48:39 [debug    / 121kB] > parsed template: network_init.html (took 16 ms)
+2022-12-13 15:48:39 [info     / 119kB] > GET /network (200 OK) [402ms]
+2022-12-13 15:48:48 [info     / 138kB] Jjsje
+2022-12-13 15:48:48 [info     / 136kB] Kskdj
+2022-12-13 15:48:48 [debug    / 125kB] > parsed template: nav.html (took 14 ms)
+2022-12-13 15:48:48 [debug    / 123kB] > parsed template: header.html (took 151 ms)
+2022-12-13 15:48:48 [debug    / 118kB] > parsed template: footer.html (took 6 ms)
+2022-12-13 15:48:48 [debug    / 116kB] > parsed template: index.html (took 414 ms)
+2022-12-13 15:48:48 [info     / 114kB] > POST /network (200 OK) [9410ms]
