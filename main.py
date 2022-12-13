@@ -84,6 +84,11 @@ def log(request):
 
     return render_template("log.html", detes=log)
 
+@server.route("/sensors")
+def sensors(request):
+    return render_template("sensors.html", name="Kevin", title="About this Site")
+
+
 @server.catchall()
 def my_catchall(request):
     return "No matching route", 404
